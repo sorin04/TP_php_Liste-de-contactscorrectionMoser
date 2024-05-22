@@ -72,6 +72,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <button class="btn waves-effect waves-light" type="submit" name="ajoutContact">
                         <b>Ajouter Contact</b>
                     </button>
+                    <button class="btn waves-effect waves-light" type="submit" name="supprimerContact">
+                        <b>Supprimer Contact</b>
+                    </button>
                 </form>
             </div>
         </div>
